@@ -1,5 +1,5 @@
 <h2> Hi, I'm Huijo! <img src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/tYpzCh5MkECzAbTz6l/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="230">
 <p><em>Software Engineer | CTO at <a href="http://hexafarms.com">Hexafarms</a><img src="https://www.hexafarms.com/images/logo.svg" width="70">
 </em></p>
 
@@ -18,6 +18,6 @@ const huijo = {
 }
 ```
 
-<em><b>I love connecting with different people</b> so if I welcome your contact always <b>hi, I'll be happy to know you!</b> :)</em> <img src="https://media.giphy.com/media/Y0mC3y5G53PsQ/giphy.gif" width="60">
+<em><b>I love connecting with different people</b> so if I welcome your contact always <b>hi, I'll be happy to know you!</b> :)</em> <img src="https://media.giphy.com/media/DGWAx8d3IkICs/giphy.gif" width="80">
 
 ---
