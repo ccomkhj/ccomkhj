@@ -18,9 +18,9 @@ const huijo = {
 }
 ```
 
-<em><b>I love connecting with different people</b> so please say hi to me</b> :)</em> <img src="https://media.giphy.com/media/DGWAx8d3IkICs/giphy.gif" width="80">
+<em><b>I love connecting with different people</b> so, say hi to me</b> :)</em> 
 
 ---
 
-![Huijo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccomkhj&show_icons=true&theme=dark) </br>
+![Huijo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true) </br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccomkhj)
