@@ -22,5 +22,5 @@ const huijo = {
 
 ---
 
-![Huijo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true) </br>
+![Huijo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccomkhj&show_icons=true) </br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccomkhj)
