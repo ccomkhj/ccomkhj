@@ -1,4 +1,4 @@
-<h2> Hi, I'm Huijo! <img src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" width="50"></h2>
+<h2> <img src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" width="50"> I'm Huijo!</h2>
 <img align='right' src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="230">
 <p><em>Computer Vision Engineer | CTO at <a href="http://hexafarms.com">Hexafarms</a><img src="https://www.hexafarms.com/images/logo.svg" width="70">
 </em></p>
