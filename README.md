@@ -14,7 +14,7 @@ huijo = {
   pronouns: "he" | "him",
   code: [Python, C++, SQL],
   tools: [Torch, OpenCV, Point Cloud Library, ROS2, Git, Docker, FastAPI],
-  profession: [Image Processing, SLAM, Photogrammetry, Data Engineering, CAD, Laser Welding, SMT, Leaktest],
+  profession: [Image Processing, SLAM, Photogrammetry, Data Engineering, CAD, Manufacturing Process],
  challenge: "I am doing the #100DaysOfCode challenge focused on data structure in C++"
 }
 ```
