@@ -1,6 +1,6 @@
 <h2> <img src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" width="50"> I'm Huijo!</h2>
 <img align='right' src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="230">
-<p><em>Computer Vision Engineer | CTO at <img src="https://www.hexafarms.com/images/logo.svg" width="90">
+<p><em>Cofounder | CTO at <img src="https://www.hexafarms.com/images/logo.svg" width="90">
 </em></p>
 
 [![Linkedin: huijokim](https://img.shields.io/badge/-ccomkhj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khj17/)](https://www.linkedin.com/in/khj17/)
@@ -13,9 +13,9 @@
 huijo = {
   pronouns: "he" | "him",
   code: [Python, C++, SQL],
-  tools: [OpenCV, PyTorch, Point Cloud Library, ROS2, Git, Docker, AWS, Airflow, FastAPI],
-  profession: [Image Processing, SLAM, Photogrammetry, Data Engineering, CAD, Manufacturing Process],
- challenge: "I am doing the #30DaysOfCode challenge focused on mastering-AWS "
+  tools: [OpenCV, PyTorch, Git, Docker (Swarm), AWS, Airflow, FastAPI, MLflow, Linux, HyperOpt, Point Cloud Library, ROS2],
+  profession: [Image Processing, SLAM, Photogrammetry, Data Engineering, MQTT, Arduino, CAD, Power Electronics, Machine Processing],
+ challenge: "I am doing the #30DaysOfCode challenge focused on Cloud-Server/Network with Docker Swarm"
 }
 ```
 
@@ -24,4 +24,4 @@ huijo = {
 ---
 
 ![Huijo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccomkhj&show_icons=true) </br>
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccomkhj) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccomkhj) -->   
