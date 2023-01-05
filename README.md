@@ -12,10 +12,10 @@
 ```
 huijo = {
   pronouns: "he" | "him",
-  code: [Python, C++, SQL],
-  tools: [OpenCV, PyTorch, Git, Docker (Swarm), AWS, Airflow, FastAPI, MLflow, Linux, HyperOpt, Point Cloud Library, ROS2],
-  profession: [Image Processing, SLAM, Photogrammetry, Data Engineering, MQTT, Arduino, CAD, Power Electronics, Machine Processing],
- challenge: "I am doing the #30DaysOfCode challenge focused on Cloud-Server/Network with Docker Swarm"
+  code: [Python, C++, SQL, Elixir],
+  tools: [OpenCV, PyTorch, Git, Docker (Swarm), AWS, Airflow, FastAPI, MLflow, Linux, HyperOpt, Point Cloud Library, ROS2, Webflow, Figma],
+  profession: [Image Processing, SLAM, Photogrammetry, Data Engineering, Cloud-Server, Network Communication, MQTT, Arduino, CAD, Power Electronics, Machine Processing],
+ challenge: "I am doing the #30DaysOfCode challenge focused on Elixir"
 }
 ```
 
