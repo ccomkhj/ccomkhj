@@ -1,6 +1,6 @@
 <h2> <img src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" width="50"> I'm Huijo!</h2>
 <img align='right' src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="230">
-<p><em>Cofounder | CTO at <img src="https://www.hexafarms.com/images/logo.svg" width="90">
+<p><em>Cofounder | CTO at <img src="https://uploads-ssl.webflow.com/63a4be61a711d89302c426e0/63b1b714b337a6828e218a69_logo-hd-in-black-p-2000.png" width="90">
 </em></p>
 
 [![Linkedin: huijokim](https://img.shields.io/badge/-ccomkhj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khj17/)](https://www.linkedin.com/in/khj17/)
