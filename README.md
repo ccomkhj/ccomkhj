@@ -1,6 +1,6 @@
 <h2> <img src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" width="50"> I'm Huijo!</h2>
 <img align='right' src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="230">
-<p><em>Cofounder | CTO at <img src="https://uploads-ssl.webflow.com/63a4be61a711d89302c426e0/63b1b714b337a6828e218a69_logo-hd-in-black-p-2000.png" width="90">
+<p><em>Founder | CTO at <a href="https://www.hexafarms.com"><img src="https://uploads-ssl.webflow.com/63a4be61a711d89302c426e0/63b1b714b337a6828e218a69_logo-hd-in-black-p-2000.png" width="90"></a>
 </em></p>
 
 [![Linkedin: huijokim](https://img.shields.io/badge/-ccomkhj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khj17/)](https://www.linkedin.com/in/khj17/)
@@ -14,14 +14,14 @@ huijo = {
   pronouns: "he" | "him",
   code: [Python, C++, SQL, Elixir],
   tools: [OpenCV, PyTorch, Git, Docker (Swarm), AWS, Airflow, FastAPI, MLflow, Linux, HyperOpt, Point Cloud Library, ROS2, Webflow, Figma],
-  profession: [Image Processing, SLAM, Photogrammetry, Data Engineering, Cloud-Server, Network Communication, MQTT, Arduino, CAD, Power Electronics, Machine Processing],
+  profession: [Image Processing, SLAM, Photogrammetry, Data Engineering, Cloud-Server, MQTT, CAD],
  challenge: "I am doing the #30DaysOfCode challenge focused on Elixir"
 }
 ```
 
-<em><b>I love connecting with different people</b> so, say hi to me</b> :)</em> 
+<em><b>Love to connect with good people</b> so, say hi to me</b> :)</em> 
 
 ---
 
-![Huijo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccomkhj&show_icons=true) </br>
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccomkhj) -->   
+![Huijo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccomkhj&show_icons=true&theme=radical&include_all_commits=true) </br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccomkhj&layout=compact&hide=jupyter%20notebook))   
