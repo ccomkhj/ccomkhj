@@ -12,10 +12,11 @@
 ```
 huijo = {
   pronouns: "he" | "him",
-  code: [Python, C++, SQL, Elixir],
-  tools: [OpenCV, PyTorch, Git, Docker (Swarm), AWS, Airflow, FastAPI, MLflow, Linux, HyperOpt, Point Cloud Library, ROS2, Webflow, Figma],
-  profession: [Image Processing, SLAM, Photogrammetry, Data Engineering, Cloud-Server, MQTT, CAD],
- challenge: "I am doing the #30DaysOfCode challenge focused on Elixir"
+  code: [Python, Elixir, SQL, C++],
+  tools: [Linux, OpenCV, PyTorch, Git, Docker (Swarm), AWS, Airflow, FastAPI, Phoenix-Elixir, MLflow, HyperOpt, Point Cloud Library, ROS2, Webflow, Figma],
+  profession: [Image Processing, Data Engineering, BackEnd, SLAM, Photogrammetry, Cloud-Server, MQTT, CAD],
+  passion: lambda userFeedback: updateProgram(userFeedback)
+  challenge: "I am doing the #30DaysOfCode challenge focused on Phoenix-Backend"
 }
 ```
 
