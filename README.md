@@ -20,9 +20,7 @@ huijo = {
 }
 ```
 
-<em><b>Love to connect with good people</b> so, say hi to me</b> :)</em> 
+<em><b>Love to connect with good people</b> :)</em> 
 
 ---
 
-![Huijo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccomkhj&show_icons=true&theme=radical&include_all_commits=true) </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccomkhj&layout=compact&hide=jupyter%20notebook)
