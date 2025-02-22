@@ -34,16 +34,7 @@ huijo = {
 
 ### 💼 Professional Journey
 
-As the **Co-Founder & CTO** of **hexafarms**, I lead the development of brain of hexafarms' system.
-
----
-
-### 🔧 Technical Skills
-
-- **Programming Languages**: Python, Elixir, SQL, C++
-- **Frameworks & Tools**: Phoenix-Elixir, Livebook, OpenCV, PyTorch, FastAPI, ROS2
-- **Cloud & DevOps**: AWS, Docker/Swarm, Git, Airflow, MLflow
-- **Specializations**: Image Processing, Predictive Modeling, Feature Engineering, SLAM, Photogrammetry, MQTT, LLM
+As **Co-Founder & CTO** of **hexafarms**, I lead the development of brain of hexafarms' system.
 
 ---
 
