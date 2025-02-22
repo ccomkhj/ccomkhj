@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello, I'm Huijo Kim!</h2>
 <p align="center">
-  <em>Co-Founder & CTO at <a href="https://www.hexafarms.com" target="_blank">HexaFarms</a></em>
+  <em>Co-Founder & CTO at <a href="https://www.hexafarms.com" target="_blank">hexafarms</a></em>
 </p>
 
 <p align="center">
