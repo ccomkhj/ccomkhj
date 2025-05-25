@@ -2,7 +2,6 @@
 
 # 👋 Hello, I'm Huijo Kim
 
-**Co-Founder & CTO at [hexafarms](https://www.hexafarms.com)**
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDhtcTloeXRoa3IyeTY1M3N5cGNrdjJqbDdhbTVvNHJ0Zjl6amZlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0f5s5027NUC5MfYzDK/giphy.gif" width="400" alt="Coding Animation">
 
@@ -23,13 +22,14 @@ huijo = {
 }
 ```
 
-As **Co-Founder & CTO** of **hexafarms**, I develop innovative systems that solve real-world problems.
+As **Co-Founder & CTO** of [hexafarms](https://www.hexafarms.com), I develop innovative systems that solve real-world problems.
 
 ---
 
 ## 🌟 Passion & Vision
 
-I am deeply passionate about leveraging technology to solve real-world problems. My mission is to create value-driving, efficient, and user-centric solutions that drive positive change.
+I am deeply passionate about leveraging technology to solve real-world problems. 
+My mission is to create value-driving, efficient, and user-centric solutions that drive positive change.
 
 ---
 
