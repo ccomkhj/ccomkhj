@@ -16,8 +16,8 @@
 ```python
 huijo = {
   "code": ["Python", "Elixir", "SQL", "C++"],
-  "tools": ["Git", "Docker", "Linux", "Phoenix-Elixir", "OpenCV", "PyTorch", "AWS", "FastAPI", "ROS2", "Airflow", "MLflow", "SQL-Mesh", "LangChain", "Streamlit"],
-  "expertise": ["Computer Vision", "Predictive/Forecast Modeling", "Data Engineering", "Cloud Management", "LLM", "IoT", "MLOps", "DataOps"],
+  "tools": ["Git", "Docker", "Linux", "Ducklake", "SQLmesh", "Airflow", "MLflow", "Phoenix-Elixir", "OpenCV", "PyTorch", "AWS", "FastAPI", "ROS2", "LangChain", "Streamlit"],
+  "expertise": ["Predictive/Forecast Modeling", "Data Engineering", "MLOps", "DataOps", "Computer Vision", "Cloud Management", "LLM", "IoT"],
   "philosophy": "Radical feedback culture, continuous learning, and make public.",
 }
 ```
