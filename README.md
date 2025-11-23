@@ -1,5 +1,3 @@
-# 👋 Huijo Kim
-
 ```python
 huijo = {
   "code": ["Python", "Elixir", "SQL", "C++"],
